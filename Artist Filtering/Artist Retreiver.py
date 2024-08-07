@@ -34,11 +34,11 @@ class ArtistRetriever:
     def load_artists(self, art_file: Path) -> None:
         self._artist_df = pd.read_csv(art_file, delimiter='\t').set_index('id')
 
-user_art_matrix=load_user_art(Path("C:\\Users\\sreev\\Downloads\\hetrec2011-lastfm-2k\\user_artists.dat"))
+user_art_matrix=load_user_art(Path("./data/user_artists.dat"))
 print(user_art_matrix)
 '''
 artist_retriever = ArtistRetriever()
-artist_retriever.load_artists(Path("C:\\Users\\sreev\\Downloads\\hetrec2011-lastfm-2k\\artists.dat"))
+artist_retriever.load_artists(Path("./data/artists.dat"))
 artist = artist_retriever.get_artist_name_from_id(1)
 print(artist)
 '''
