@@ -49,11 +49,14 @@ class ImplicitRecommender:
     def recommend(self, user_id: int,
                   user_artists_matrix: scipy.sparse.csr_matrix,
                   n: int = 10) -> Tuple[List[str], List[float]]:
-        artist_ids, scores = self.implicit_model.recommend(user_id, user_artists_matrix)
+        # Slice the matrix to get the user's row
+        user_row = user_artists_matrix[user_id]
+        artist_ids, scores = self.implicit_model.recommend(user_id, user_row, N=n)
         artists = [self.artist_retriever.get_artist_name_from_id(artist_id)
                    for artist_id in artist_ids]
         return artists, scores
 
+# Load data
 user_artists = load_user_art(Path("./data/user_artists.dat"))
 
 artist_retriever = ArtistRetriever()
@@ -62,9 +65,13 @@ artist_retriever.load_artists(Path("./data/artists.dat"))
 implicit_model = implicit.als.AlternatingLeastSquares(
     factors=50, iterations=10, regularization=0.01)
 
+# Initialize and fit the recommender
 recommender = ImplicitRecommender(artist_retriever, implicit_model)
 recommender.fit(user_artists)
+
+# Recommend for user with ID 2
 artists, scores = recommender.recommend(2, user_artists, n=5)
 
+# Print recommended artists and their scores
 for artist, score in zip(artists, scores):
     print(f"{artist}, {score}")
