@@ -1,0 +1,101 @@
+# ,Song Title,Artist 1,Artist 2,Mood,Genre,Year,People Liked,Popularity
+1,Tum Hi Ho,Arijit Singh,,Romantic,Pop,2013,3500000,9500000
+2,Chaiyya Chaiyya,Sukhwinder Singh,,Energetic,Folk,1998,4000000,9000000
+3,Kal Ho Naa Ho,Sonu Nigam,,Sad,Pop,2003,2800000,8800000
+4,Jai Ho,A. R. Rahman,,Energetic,Fusion,2008,3200000,9200000
+5,Tujh Mein Rab Dikhta Hai,Shreya Ghoshal,,Romantic,Classical,2008,2500000,8700000
+6,Badtameez Dil,Benny Dayal,,Energetic,Dance,2013,3000000,8900000
+7,Pachtaoge,Arijit Singh,,Sad,Pop,2019,4200000,9100000
+8,Zingaat,Ajay-Atul,,Energetic,Folk,2016,3800000,9300000
+9,Tera Ban Jaunga,Akhil Sachdeva,,Romantic,Pop,2019,3400000,9000000
+10,Aaj Kal Tere Mere Pyar Ke,Mohammed Rafi,,Happy,Retro,1968,2700000,8500000
+11,Pehli Nazar Mein,Atif Aslam,,Romantic,Pop,2008,3300000,8600000
+12,Subhanallah,Sreeram, Shilpa Rao,Romantic,Pop,2013,2900000,8700000
+13,Tum Mile,Neeraj Shridhar,,Sad,Pop,2009,2600000,8900000
+14,Kaise Hua,Vishal Mishra,,Romantic,Pop,2019,3100000,9000000
+15,Malhari,Vishal Dadlani,,Energetic,Folk,2015,3700000,9200000
+16,Dil Dhadakne Do,Farhan Akhtar, Priyanka Chopra,Happy,Pop,2015,2800000,8700000
+17,Tum Jo Aaye,Rahat Fateh Ali Khan,,Romantic,Sufi,2010,2500000,8500000
+18,Channa Mereya,Arijit Singh,,Sad,Pop,2016,4000000,9400000
+19,Gerua,Arijit Singh, Antara Mitra,Romantic,Pop,2015,3500000,9200000
+20,Kar Gayi Chull,Badshah, Neha Kakkar,Energetic,Dance,2016,3800000,9100000
+21,Sun Saathiya,Priya Saraiya, Divya Kumar,Romantic,Pop,2015,2700000,8900000
+22,Ghoomar,Shreya Ghoshal,,Traditional,Folk,2017,3200000,8800000
+23,Ek Dil Ek Jaan,Shivam Pathak,,Romantic,Classical,2017,3000000,8700000
+24,Aankhon Mein Teri,KK,,Romantic,Pop,2007,2600000,8500000
+25,Afreen Afreen,Rahat Fateh Ali Khan,Sufi,Romantic,Folk,2016,3400000,9000000
+26,Phir Le Aya Dil,Arijit Singh,Melancholic,Romantic,Folk,2012,3100000,8800000
+27,Raabta,Arijit Singh,,Romantic,Pop,2017,2900000,8700000
+28,Kabira,Tochi Raina, Rekha Bhardwaj,Melancholic,Folk,2013,3200000,8900000
+29,Pal Pal Dil Ke Paas,Kishore Kumar,,Romantic,Retro,1973,3000000,8500000
+30,Ae Dil Hai Mushkil,Arijit Singh,,Melancholic,Pop,2016,3800000,9300000
+31,Tum Se Hi,Mohit Chauhan,,Romantic,Pop,2007,2700000,8700000
+32,Tera Hone Laga Hoon,Atif Aslam, Alisha Chinai,Romantic,Pop,2009,3000000,8800000
+33,Agar Tum Saath Ho,Arijit Singh, Alka Yagnik,Sad,Pop,2015,3400000,9000000
+34,Galliyan,Ankit Tiwari,,Romantic,Pop,2014,3200000,8900000
+35,Bulleya,Amit Mishra, Shilpa Rao,Sufi,Sufi,2016,3600000,9100000
+36,Kala Chashma,Neha Kakkar, Badshah,Energetic,Dance,2016,3700000,9200000
+37,Hasi Ban Gaye,Ami Mishra,,Romantic,Pop,2015,2800000,8800000
+38,Tum Mile (Rock Version),Javed Ali,,Sad,Rock,2009,2500000,8600000
+39,Tera Yaar Hoon Main,Arijit Singh,,Emotional,Pop,2018,3300000,8900000
+40,Zaalima,Arijit Singh, Harshdeep Kaur,Romantic,Pop,2017,3400000,9100000
+41,Raabta (Kehte Hain Khuda),Arijit Singh, Nikhita Gandhi,Romantic,Pop,2017,2900000,8700000
+42,Hawa Hawa,Mika Singh, Prakriti Kakar,Energetic,Dance,2017,3000000,8800000
+43,Saans,Shreya Ghoshal, Mohit Chauhan,Romantic,Pop,2012,2700000,8500000
+44,Dil Diyan Gallan,Atif Aslam,,Romantic,Pop,2017,3100000,8900000
+45,Manwa Laage,Shreya Ghoshal, Arijit Singh,Romantic,Pop,2014,3200000,8800000
+46,Hookah Bar,Himesh Reshammiya, Vineet Singh,Energetic,Dance,2012,2900000,8700000
+47,Mast Magan,Arijit Singh, Chinmayi Sripaada,Romantic,Pop,2014,3300000,8900000
+48,Tum Tak,Javed Ali, Keerthi Sagathia,Romantic,Pop,2013,2800000,8700000
+49,Phir Bhi Tumko Chaahunga,Arijit Singh, Shashaa Tirupati,Romantic,Pop,2017,3100000,8800000
+50,Palat - Tera Hero Idhar Hai,Arijit Singh,,Energetic,Dance,2014,3000000,8900000
+51,Tera Ban Jaunga,Akhil Sachdeva, Tulsi Kumar,Romantic,Pop,2019,3400000,9100000
+52,Jeene Laga Hoon,Atif Aslam, Shreya Ghoshal,Romantic,Pop,2013,2900000,8800000
+53,Tum Jo Aaye Zindagi Mein,Rahat Fateh Ali Khan, Tulsi Kumar,Romantic,Sufi,2010,2600000,8700000
+54,Sun Saathiya,Priya Saraiya, Divya Kumar,Romantic,Pop,2015,2700000,8800000
+55,Ghungroo,Arijit Singh, Shilpa Rao,Energetic,Dance,2019,3600000,9200000
+56,Hum Mar Jayenge,Arijit Singh, Tulsi Kumar,Romantic,Pop,2013,2800000,8700000
+57,Pal Pal Dil Ke Paas (Remix),Arijit Singh,Romantic,Retro,2016,2900000,8800000
+58,Aaj Se Teri,Arijit Singh,Romantic,Pop,2017,2700000,8600000
+59,Nashe Si Chadh Gayi,Arijit Singh, Caralisa Monteiro,Energetic,Dance,2016,3500000,9300000
+60,Tum Jo Mile,Neeraj Shridhar,Romantic,Pop,2010,2500000,8600000
+61,Agar Tum Mil Jao,Shreya Ghoshal,Romantic,Ghazal,2005,2400000,8400000
+62,Suno Na Sangemarmar,Arijit Singh,Romantic,Pop,2014,3100000,8900000
+63,Gallan Goodiyan, Shankar Mahadevan, Neeti Mohan,Energetic,Dance,2015,3200000,9000000
+64,Banjaara,Mohd. Irfan,Romantic,Pop,2014,2900000,8700000
+65,Bol Do Na Zara,Armaan Malik,Romantic,Pop,2016,3100000,8800000
+66,Shayad (Jammin Version),Arijit Singh,Romantic,Pop,2020,3500000,9200000
+67,Sun Raha Hai Na Tu,Shreya Ghoshal,Sad,Pop,2013,2600000,8800000
+68,Tera Intezaar (Remix),Arijit Singh,Romantic,Pop,2017,3000000,8900000
+69,Galiyan Returns,Ankit Tiwari,Romantic,Pop,2020,3400000,9000000
+70,Khairiyat,Arijit Singh,Romantic,Pop,2019,3600000,9200000
+71,Matargashti,Mohit Chauhan,Energetic,Pop,2015,3000000,8800000
+72,Enna Sona,Arijit Singh,Romantic,Pop,2017,3100000,8900000
+73,Hasi Ban Gaye (Female),Shreya Ghoshal,Romantic,Pop,2015,2800000,8800000
+74,Dhadak,Ajay Gogavale, Shreya Ghoshal,Romantic,Pop,2018,3300000,8900000
+75,Pee Loon,Mohit Chauhan,Romantic,Pop,2010,3100000,8700000
+76,Roke Na Ruke Naina,Arijit Singh,Melancholic,Pop,2017,3400000,9000000
+77,Bolna,Arijit Singh,Romantic,Pop,2016,3500000,9100000
+78,Hawa Banke,Darshan Raval,Romantic,Pop,2019,3700000,9200000
+79,Tum Mile,Javed Ali,Romantic,Pop,2009,2600000,8500000
+80,Chogada,Darshan Raval, Asees Kaur,Energetic,Folk,2018,3900000,9400000
+81,Khuda Jaane,K K, Shilpa Rao,Romantic,Pop,2008,3200000,8900000
+82,Samjhawan,Arijit Singh, Shreya Ghoshal,Romantic,Pop,2014,3500000,9200000
+83,Ghar More Pardesiya,Shreya Ghoshal, Vaishali Mhade,Traditional,Folk,2019,3400000,9100000
+84,Tum Mile (Love Reprise),Neeraj Shridhar,Romantic,Pop,2009,2400000,8400000
+85,Tum Hi Ho Bandhu,Neeraj Shridhar, Shreya Ghoshal,Happy,Pop,2012,3300000,8900000
+86,Hasi Ban Gaye,Jubin Nautiyal,Romantic,Pop,2015,2800000,8800000
+87,Shayad,Arijit Singh,Romantic,Pop,2020,3500000,9200000
+88,Tera Chehra,Arijit Singh,Romantic,Pop,2019,3300000,8900000
+89,Ve Maahi,Arijit Singh, Asees Kaur,Romantic,Pop,2019,3700000,9300000
+90,Kabhi Jo Baadal Barse,Arijit Singh,Sad,Pop,2013,3100000,8700000
+91,Main Hoon Hero Tera,Armaan Malik,Romantic,Pop,2015,3200000,8800000
+92,Ghunghat,Atif Aslam,Romantic,Pop,2016,2900000,8700000
+93,Tum Hi Aana,Jubin Nautiyal,Sad,Pop,2019,3400000,9100000
+94,Pal,Arijit Singh, Shreya Ghoshal,Romantic,Pop,2018,3200000,8900000
+95,Tera Ban Jaunga,Akhil Sachdeva, Tulsi Kumar,Romantic,Pop,2019,3500000,9100000
+96,Duniya,Akhil, Dhvani Bhanushali,Romantic,Pop,2019,3600000,9200000
+97,Naino Ne Baandhi,Arko Pravo Mukherjee,Romantic,Pop,2018,3200000,8900000
+98,Tera Ban Jaunga,Akhil Sachdeva, Tulsi Kumar,Romantic,Pop,2019,3400000,9000000
+99,Sab Tera,Armaan Malik, Shraddha Kapoor,Romantic,Pop,2016,3300000,8800000
+100,Tera Ghata,Gajendra Verma,Emotional,Pop,2018,3600000,9200000
